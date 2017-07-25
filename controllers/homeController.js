@@ -5,6 +5,3 @@ exports.getHome = (req,res)=>
         }
         res.render("clients/index", data);
 }
-exports.detail = (req, res) => {
-    res.render("clients/quick_view");
-}
