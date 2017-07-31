@@ -1,4 +1,4 @@
-"use trick"
+"use strict"
 // quick view
 exports.quickDetail = (req, res) => {
     res.render("clients/quick_view");

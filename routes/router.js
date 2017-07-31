@@ -1,4 +1,4 @@
-"use trick"
+"use strict"
 var home = require('../controllers/homeController.js');
 var product = require('../controllers/ProductController.js');
 var categories = require('../controllers/CategoriesController.js');
